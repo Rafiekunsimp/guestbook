@@ -2,17 +2,6 @@
   "version": 1,
   "games": [
     {
-      "id": 2,
-      "title": "Celeste",
-      "platform": "PC",
-      "status": "completed",
-      "rating": 10,
-      "genre": "Platformer",
-      "url": "https://store.steampowered.com/app/504230/Celeste/",
-      "hours": 28,
-      "developer": "Maddy Thorson & Noel Berry"
-    },
-    {
       "id": 1,
       "title": "OMORI",
       "platform": "PC",
@@ -23,6 +12,17 @@
       "hours": 32,
       "favorite": true,
       "developer": "OMOCAT, LLC"
+    },
+    {
+      "id": 2,
+      "title": "Celeste",
+      "platform": "PC",
+      "status": "completed",
+      "rating": 10,
+      "genre": "Platformer",
+      "url": "https://store.steampowered.com/app/504230/Celeste/",
+      "hours": 28,
+      "developer": "Maddy Thorson & Noel Berry"
     },
     {
       "id": 3,

@@ -162,5 +162,13 @@
       "developer": "Mojang Studios"
     }
   ],
-  "friends": []
+  "friends": [
+    {
+      "id": 1792089151582,
+      "label": "test friend",
+      "imageUrl": "https://rafiekunsimp.is-a.dev/buttons/reef-88x31.png",
+      "siteUrl": "https://example.com",
+      "description": "just testing the manager"
+    }
+  ]
 }

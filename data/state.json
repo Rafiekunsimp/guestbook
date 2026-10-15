@@ -170,6 +170,13 @@
       "siteUrl": "https://test-buddy.example"
     }
   ],
-  "about": null,
+  "about": {
+    "name": "Rafie",
+    "alias": "reef",
+    "pronouns": "he/him",
+    "location": "somewhere",
+    "tagline": "testing about edits from admin.",
+    "bio": "hello from the admin about editor."
+  },
   "projects": null
 }

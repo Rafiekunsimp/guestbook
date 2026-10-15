@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "games": [
+    {
+      "id": 999001,
+      "title": "TESTGAME",
+      "platform": "PC",
+      "status": "want",
+      "genre": "test"
+    }
+  ],
+  "friends": []
+}

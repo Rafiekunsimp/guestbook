@@ -178,5 +178,56 @@
     "tagline": "testing about edits from admin.",
     "bio": "hello from the admin about editor."
   },
-  "projects": null
+  "projects": [
+    {
+      "id": 2,
+      "title": "xryweb",
+      "description": "the xrypton website — a themed landing page built for Vercel hosting.",
+      "repo": "https://github.com/Rafiekunsimp/XryWeb",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "status": "archived",
+      "year": 2026
+    },
+    {
+      "id": 3,
+      "title": "QwFNfer",
+      "description": "a custom c++ inference engine tuned for qwen — runs qwen3.8-flash-next at 15+ tok/s on 16gb of vram and 30gb of ram.",
+      "repo": "https://github.com/Rafiekunsimp/QwFNfer",
+      "tags": [
+        "c++",
+        "ai",
+        "inference"
+      ],
+      "status": "active",
+      "year": 2026
+    },
+    {
+      "id": 4,
+      "title": "LuaTools",
+      "description": "a windows desktop client for managing steam manifest + lua configurations — wpf on .net 8.",
+      "url": "https://lua.tools",
+      "repo": "https://github.com/Rafiekunsimp/LuaTools",
+      "tags": [
+        "c#",
+        "tools"
+      ],
+      "status": "active",
+      "year": 2026
+    },
+    {
+      "id": 1792094955718,
+      "title": "Test Project",
+      "description": "temporary test entry",
+      "url": "https://example.com",
+      "tags": [
+        "test",
+        "demo"
+      ],
+      "status": "active",
+      "year": 2026
+    }
+  ]
 }

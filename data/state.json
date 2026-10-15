@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "games": [
+    {
+      "id": 2,
+      "title": "Celeste",
+      "platform": "PC",
+      "status": "completed",
+      "rating": 10,
+      "genre": "Platformer",
+      "url": "https://store.steampowered.com/app/504230/Celeste/",
+      "hours": 28,
+      "developer": "Maddy Thorson & Noel Berry"
+    },
+    {
+      "id": 1,
+      "title": "OMORI",
+      "platform": "PC",
+      "status": "completed",
+      "rating": 10,
+      "genre": "RPG / Horror",
+      "url": "https://store.steampowered.com/app/1150690/OMORI/",
+      "hours": 32,
+      "favorite": true,
+      "developer": "OMOCAT, LLC"
+    },
+    {
+      "id": 3,
+      "title": "Hollow Knight",
+      "platform": "PC",
+      "status": "playing",
+      "rating": 9,
+      "genre": "Metroidvania",
+      "url": "https://store.steampowered.com/app/367520/Hollow_Knight/",
+      "hours": 45,
+      "developer": "Team Cherry"
+    },
+    {
+      "id": 4,
+      "title": "Disco Elysium",
+      "platform": "PC",
+      "status": "completed",
+      "rating": 10,
+      "genre": "RPG",
+      "url": "https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/",
+      "hours": 60,
+      "favorite": true,
+      "developer": "ZA/UM"
+    },
+    {
+      "id": 5,
+      "title": "Hades",
+      "platform": "PC",
+      "status": "playing",
+      "rating": 9,
+      "genre": "Roguelike",
+      "url": "https://store.steampowered.com/app/1145360/Hades/",
+      "hours": 80,
+      "developer": "Supergiant Games"
+    },
+    {
+      "id": 6,
+      "title": "Undertale",
+      "platform": "PC",
+      "status": "completed",
+      "rating": 10,
+      "genre": "RPG",
+      "url": "https://store.steampowered.com/app/391540/Undertale/",
+      "hours": 12,
+      "favorite": true,
+      "developer": "tobyfox"
+    },
+    {
+      "id": 7,
+      "title": "Inscryption",
+      "platform": "PC",
+      "status": "completed",
+      "rating": 9,
+      "genre": "Roguelike / Horror",
+      "url": "https://store.steampowered.com/app/1092790/Inscryption/",
+      "hours": 15,
+      "developer": "Daniel Mullins Games"
+    },
+    {
+      "id": 8,
+      "title": "Night in the Woods",
+      "platform": "PC",
+      "status": "completed",
+      "rating": 9,
+      "genre": "Adventure",
+      "url": "https://store.steampowered.com/app/481510/Night_in_the_Woods/",
+      "hours": 10,
+      "developer": "Infinite Fall"
+    },
+    {
+      "id": 9,
+      "title": "OneShot",
+      "platform": "PC",
+      "status": "completed",
+      "rating": 9,
+      "genre": "Adventure / Puzzle",
+      "url": "https://store.steampowered.com/app/420530/OneShot/",
+      "hours": 5,
+      "favorite": true,
+      "developer": "Future Cat LLC"
+    },
+    {
+      "id": 10,
+      "title": "Stardew Valley",
+      "platform": "PC",
+      "status": "playing",
+      "rating": 9,
+      "genre": "Simulation",
+      "url": "https://store.steampowered.com/app/413150/Stardew_Valley/",
+      "hours": 200,
+      "developer": "ConcernedApe"
+    },
+    {
+      "id": 11,
+      "title": "Spiritfarer",
+      "platform": "PC",
+      "status": "want",
+      "genre": "Management",
+      "url": "https://store.steampowered.com/app/972660/Spiritfarer_Farewell_Edition/",
+      "developer": "Thunder Lotus Games"
+    },
+    {
+      "id": 12,
+      "title": "Doki Doki Literature Club",
+      "platform": "PC",
+      "status": "completed",
+      "rating": 8,
+      "genre": "Visual Novel / Horror",
+      "url": "https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/",
+      "hours": 6,
+      "developer": "Team Salvato"
+    },
+    {
+      "id": 13,
+      "title": "osu!",
+      "platform": "PC",
+      "status": "playing",
+      "rating": 10,
+      "genre": "Rhythm",
+      "url": "https://osu.ppy.sh/users/rafiekunsimp",
+      "cover": "/logos/osu.png",
+      "coverContain": true,
+      "favorite": true,
+      "developer": "ppy",
+      "description": "my osu! profile: rafiekunsimp. click visit to open it."
+    },
+    {
+      "id": 14,
+      "title": "Minecraft",
+      "platform": "PC",
+      "status": "playing",
+      "rating": 9,
+      "genre": "Sandbox / Survival",
+      "url": "https://www.minecraft.net/",
+      "cover": "/logos/minecraft.png",
+      "coverContain": true,
+      "developer": "Mojang Studios"
+    }
+  ],
+  "friends": []
+}

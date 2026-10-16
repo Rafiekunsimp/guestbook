@@ -93,18 +93,6 @@
       "developer": "Infinite Fall"
     },
     {
-      "id": 9,
-      "title": "OneShot",
-      "platform": "PC",
-      "status": "completed",
-      "rating": 9,
-      "genre": "Adventure / Puzzle",
-      "url": "https://store.steampowered.com/app/420530/OneShot/",
-      "hours": 5,
-      "favorite": true,
-      "developer": "Future Cat LLC"
-    },
-    {
       "id": 13,
       "title": "osu!",
       "platform": "PC",
@@ -117,6 +105,18 @@
       "favorite": true,
       "developer": "ppy",
       "description": "my osu! profile: rafiekunsimp. click visit to open it."
+    },
+    {
+      "id": 9,
+      "title": "OneShot",
+      "platform": "PC",
+      "status": "completed",
+      "rating": 9,
+      "genre": "Adventure / Puzzle",
+      "url": "https://store.steampowered.com/app/420530/OneShot/",
+      "hours": 5,
+      "favorite": true,
+      "developer": "Future Cat LLC"
     },
     {
       "id": 10,

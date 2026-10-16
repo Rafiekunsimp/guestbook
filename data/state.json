@@ -2,18 +2,6 @@
   "version": 1,
   "games": [
     {
-      "id": 14,
-      "title": "Minecraft",
-      "platform": "PC",
-      "status": "playing",
-      "rating": 9,
-      "genre": "Sandbox / Survival",
-      "url": "https://www.minecraft.net/",
-      "cover": "/logos/minecraft.png",
-      "coverContain": true,
-      "developer": "Mojang Studios"
-    },
-    {
       "id": 1,
       "title": "OMORI",
       "platform": "PC",
@@ -24,6 +12,18 @@
       "hours": 32,
       "favorite": true,
       "developer": "OMOCAT, LLC"
+    },
+    {
+      "id": 14,
+      "title": "Minecraft",
+      "platform": "PC",
+      "status": "playing",
+      "rating": 9,
+      "genre": "Sandbox / Survival",
+      "url": "https://www.minecraft.net/",
+      "cover": "/logos/minecraft.png",
+      "coverContain": true,
+      "developer": "Mojang Studios"
     },
     {
       "id": 13,

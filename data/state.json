@@ -2,6 +2,20 @@
   "version": 1,
   "games": [
     {
+      "id": 13,
+      "title": "osu!",
+      "platform": "PC",
+      "status": "playing",
+      "rating": 10,
+      "genre": "Rhythm",
+      "url": "https://osu.ppy.sh/users/rafiekunsimp",
+      "cover": "/logos/osu.png",
+      "coverContain": true,
+      "favorite": true,
+      "developer": "ppy",
+      "description": "my osu! profile: rafiekunsimp. click visit to open it."
+    },
+    {
       "id": 1,
       "title": "OMORI",
       "platform": "PC",
@@ -91,20 +105,6 @@
       "url": "https://store.steampowered.com/app/481510/Night_in_the_Woods/",
       "hours": 10,
       "developer": "Infinite Fall"
-    },
-    {
-      "id": 13,
-      "title": "osu!",
-      "platform": "PC",
-      "status": "playing",
-      "rating": 10,
-      "genre": "Rhythm",
-      "url": "https://osu.ppy.sh/users/rafiekunsimp",
-      "cover": "/logos/osu.png",
-      "coverContain": true,
-      "favorite": true,
-      "developer": "ppy",
-      "description": "my osu! profile: rafiekunsimp. click visit to open it."
     },
     {
       "id": 9,

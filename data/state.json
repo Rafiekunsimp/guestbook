@@ -14,18 +14,6 @@
       "developer": "OMOCAT, LLC"
     },
     {
-      "id": 14,
-      "title": "Minecraft",
-      "platform": "PC",
-      "status": "playing",
-      "rating": 9,
-      "genre": "Sandbox / Survival",
-      "url": "https://www.minecraft.net/",
-      "cover": "/logos/minecraft.png",
-      "coverContain": true,
-      "developer": "Mojang Studios"
-    },
-    {
       "id": 13,
       "title": "osu!",
       "platform": "PC",
@@ -38,6 +26,18 @@
       "favorite": true,
       "developer": "ppy",
       "description": "my osu! profile: rafiekunsimp. click visit to open it."
+    },
+    {
+      "id": 14,
+      "title": "Minecraft",
+      "platform": "PC",
+      "status": "playing",
+      "rating": 9,
+      "genre": "Sandbox / Survival",
+      "url": "https://www.minecraft.net/",
+      "cover": "/logos/minecraft.png",
+      "coverContain": true,
+      "developer": "Mojang Studios"
     },
     {
       "id": 2,

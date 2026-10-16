@@ -116,15 +116,6 @@
       "developer": "ConcernedApe"
     },
     {
-      "id": 11,
-      "title": "Spiritfarer",
-      "platform": "PC",
-      "status": "want",
-      "genre": "Management",
-      "url": "https://store.steampowered.com/app/972660/Spiritfarer_Farewell_Edition/",
-      "developer": "Thunder Lotus Games"
-    },
-    {
       "id": 13,
       "title": "osu!",
       "platform": "PC",
@@ -137,6 +128,15 @@
       "favorite": true,
       "developer": "ppy",
       "description": "my osu! profile: rafiekunsimp. click visit to open it."
+    },
+    {
+      "id": 11,
+      "title": "Spiritfarer",
+      "platform": "PC",
+      "status": "want",
+      "genre": "Management",
+      "url": "https://store.steampowered.com/app/972660/Spiritfarer_Farewell_Edition/",
+      "developer": "Thunder Lotus Games"
     },
     {
       "id": 12,

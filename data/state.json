@@ -180,6 +180,12 @@
       "label": "xs10",
       "imageUrl": "https://xs10.dev/buttons/xs10.webp",
       "siteUrl": "https://xs10.dev"
+    },
+    {
+      "id": 1792134647169,
+      "label": "StarWarsK",
+      "imageUrl": "https://starwarsk.me/wow.png",
+      "siteUrl": "https://starwarsk.me/"
     }
   ],
   "about": null,

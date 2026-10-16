@@ -188,6 +188,13 @@
       "siteUrl": "https://starwarsk.me/"
     }
   ],
-  "about": null,
+  "about": {
+    "name": "Rafie",
+    "alias": "reef",
+    "pronouns": "he/him",
+    "location": "somewhere",
+    "tagline": "his omori-styled portfolio.",
+    "bio": "hi. i'm reef — i build things for the internet.\n\nwebsites, bots, and the occasional weird experiment.\nsometimes they work.\nsometimes they don't.\ni keep building anyway."
+  },
   "projects": null
 }

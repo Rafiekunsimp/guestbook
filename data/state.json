@@ -168,6 +168,12 @@
       "label": "piqseu",
       "imageUrl": "https://piqs.eu/assets/button/anim.webp",
       "siteUrl": "https://piqs.eu/"
+    },
+    {
+      "id": 1792134445351,
+      "label": "peeblyweeb",
+      "imageUrl": "https://salamithecat.com/button.webp",
+      "siteUrl": "https://salamithecat.com/"
     }
   ],
   "about": null,

@@ -162,7 +162,14 @@
       "developer": "Team Salvato"
     }
   ],
-  "friends": [],
+  "friends": [
+    {
+      "id": 1792134435426,
+      "label": "piqseu",
+      "imageUrl": "https://piqs.eu/assets/button/anim.webp",
+      "siteUrl": "https://piqs.eu/"
+    }
+  ],
   "about": null,
   "projects": null
 }

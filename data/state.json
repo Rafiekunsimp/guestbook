@@ -2,6 +2,18 @@
   "version": 1,
   "games": [
     {
+      "id": 1,
+      "title": "OMORI",
+      "platform": "PC",
+      "status": "completed",
+      "rating": 10,
+      "genre": "RPG / Horror",
+      "url": "https://store.steampowered.com/app/1150690/OMORI/",
+      "hours": 32,
+      "favorite": true,
+      "developer": "OMOCAT, LLC"
+    },
+    {
       "id": 13,
       "title": "osu!",
       "platform": "PC",
@@ -14,18 +26,6 @@
       "favorite": true,
       "developer": "ppy",
       "description": "my osu! profile: rafiekunsimp. click visit to open it."
-    },
-    {
-      "id": 1,
-      "title": "OMORI",
-      "platform": "PC",
-      "status": "completed",
-      "rating": 10,
-      "genre": "RPG / Horror",
-      "url": "https://store.steampowered.com/app/1150690/OMORI/",
-      "hours": 32,
-      "favorite": true,
-      "developer": "OMOCAT, LLC"
     },
     {
       "id": 2,
